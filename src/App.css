@@ -30,3 +30,21 @@
     transform: rotate(360deg);
   }
 }
+
+
+.comments {
+
+}
+
+.active {
+  
+}
+
+.reactAnim-enter {
+  margin-left: -200px;
+  transition-duration: 500ms;
+}
+
+.reactAnim-enter-active {
+  margin-left: 0px;
+}
